@@ -1,4 +1,8 @@
 {
+  "publishConfig": {
+    "provenance": true,
+    "access": "public"
+  },
   "name": "fastify-vulnerable-ex1",
   "version": "1.0.0",
   "main": "index.js",
